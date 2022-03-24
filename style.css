@@ -1,11 +1,16 @@
-.h3{
- // centrer
+.entête{
+ text-align: center;
 }
 
-.ADRprésentation{
-// centrer //
+.présentation{
+ color: blue;
+ text-align: center;
 }
 
-.li{
-// droite en haut
+.imageadr{
+ text-align: center;
+}
+
+. {
+ background-image: url("ADRbackgroubd.jpg");
 }
